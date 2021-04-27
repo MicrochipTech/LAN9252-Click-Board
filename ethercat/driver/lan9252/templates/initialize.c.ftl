@@ -1,1 +1,0 @@
-	ECAT_Util_Initialize(0, (void *)&drvLAN9252InitData);
